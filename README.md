@@ -1,4 +1,14 @@
 # SpaceX-Launches-to-Excel
+
+## General Info
 Webscraping script that finds all upcoming SpaceX launches and formats them into a excel file.
 
-![image](https://user-images.githubusercontent.com/49460746/169710546-eea23ae6-ef25-40c0-bf33-49a06701da18.png)
+## Technologies
+Project is created with: 
+* BeautifulSoup 
+* requests
+* schedule 
+* xlsxwriter 
+
+## Example of Excel Output
+![Screenshot 2022-05-22 133803](https://user-images.githubusercontent.com/49460746/169710572-73b5f5f9-020a-470c-8e37-a4edfa634881.png)
